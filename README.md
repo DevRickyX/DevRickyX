@@ -71,7 +71,6 @@ Here are some ideas to get you started:
 ```bash
 > 🚀 Currently focused on building modern, scalable tools that empower people and simplify digital work.
 > 🧩 Exploring how to blend creativity, tech, and empathy in every project.
-> 🎧 Developing an app that uses Spotify’s API to help artists verify and manage their profiles easily.
 > 🌍 Supporting international NGO websites with multilingual WordPress architecture.
 > 🧱 Experimenting with modular website builders using Next.js + Tailwind + Supabase.
 ```
