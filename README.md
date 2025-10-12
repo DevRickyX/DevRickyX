@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="50%">
       🎨 <b>Frontend & Mobile</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,flutter,dart,ts,js,html,css,expo&perline=5" /><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,dart,ts,js,html,css,expo&perline=5" /><br><br>
       <sub>React • React Native • Next.js • Tailwind • Flutter • Dart • TypeScript • JavaScript • HTML • CSS • Expo</sub>
     </td>
     <td align="center" width="50%">
