@@ -36,11 +36,30 @@ Here are some ideas to get you started:
 
 ### ⚙️ Tech Stack  
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=7" /><br>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&perline=5" /><br>
-  <!-- Tools / CMS -->
-  <img src="https://skillicons.dev/icons?i=wordpress,git,docker,figma,vscode&perline=5" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      🎨 <b>Frontend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=4" /><br><br>
+      <sub>React • Next.js • Tailwind • TypeScript • JavaScript • HTML • CSS</sub>
+    </td>
+    <td align="center" width="50%">
+      ⚙️ <b>Backend</b><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,aws&perline=4" /><br><br>
+      <sub>Node.js • Express • MongoDB • Supabase • Firebase • AWS Lambda</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      🧰 <b>Tools & CMS</b><br><br>
+      <img src="https://skillicons.dev/icons?i=wordpress,git,docker,figma,vscode,github&perline=4" /><br><br>
+      <sub>WordPress (Multisite, Polylang, WPBakery, Elementor) • Git • Docker • Figma • VS Code</sub>
+    </td>
+    <td align="center" width="50%">
+      🌐 <b>Other Skills</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,bash,linux,notion&perline=4" /><br><br>
+      <sub>Python • Bash • Linux • Notion • Team Collaboration</sub>
+    </td>
+  </tr>
+</table>
+
