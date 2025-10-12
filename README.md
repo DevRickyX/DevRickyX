@@ -32,3 +32,15 @@ Here are some ideas to get you started:
 > Hi! I'm Santiago — a creative software engineer who enjoys turning ideas into beautiful, functional digital experiences.
 > I love building web apps with React, Node.js, and AWS, and I’m obsessed with clean design and smooth user experience.
 > My focus: scalable systems, modern frontends, and a touch of creativity in everything.
+```
+
+### ⚙️ Tech Stack  
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css&perline=7" /><br>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,aws&perline=5" /><br>
+  <!-- Tools / CMS -->
+  <img src="https://skillicons.dev/icons?i=wordpress,git,docker,figma,vscode&perline=5" />
+</p>
