@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Banner personalizado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000066,100:0000FF&height=220&section=header&text=Santiago%20Ricardo%20Ramírez&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<p align="center">
+  <b>💻 Software Engineer | 🌍 Colombia | 🚀 Full Stack Developer</b><br>
+  <i>“Building smart, human-centered experiences with purpose.”</i>
+</p>
+
+---
+
+### 🧠 About Me  
+
+```bash
+> Hi! I'm Santiago — a creative software engineer who enjoys turning ideas into beautiful, functional digital experiences.
+> I love building web apps with React, Node.js, and AWS, and I’m obsessed with clean design and smooth user experience.
+> My focus: scalable systems, modern frontends, and a touch of creativity in everything.
