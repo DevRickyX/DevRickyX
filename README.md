@@ -45,7 +45,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" width="50%">
       ⚙️ <b>Backend</b><br><br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,aws&perline=5,nestjs" /><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,supabase,firebase,nestjs,aws&perline=5" /><br><br>
       <sub>Node.js • Express • MongoDB • Supabase • Firebase • AWS Lambda</sub>
     </td>
   </tr>
